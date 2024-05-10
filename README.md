@@ -16,6 +16,20 @@ and also have configurations for the following:
     - gender
     > **Information:** You can customize the user model as per your requirements
 
+### How to use the template
+#### Backend
+- Clone the project
+    > **Note:** You can clone the project using the following command:
+    ```bash
+    git clone https://github.com/amirali-lll/django-backend-template.git
+    ```
+
+- Change the name of the project
+    > **Note:** For changing project name search the "project_name" and "PROJECT_NAME" in the project and replace it with your project name, also change the name of project_name directory to your project name
+    
+    > **information:** you can use the tools like vs-code search tool to search and replace the project name
+
+
 ### How to run the project
 - Clone the project
     > **Note:** You can clone the project using the following command:
