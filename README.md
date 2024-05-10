@@ -18,10 +18,25 @@ and also have configurations for the following:
 
 ### How to run the project
 - Clone the project
+    > **Note:** You can clone the project using the following command:
+    ```bash
+    git clone https://github.com/amirali-lll/django-backend-template.git
+    ```
+#### Run backend
+- Change the directory
+    > **Note:** You can change the directory using the following command:
+    ```bash
+    cd django-backend-template/backend
+    ```
 - Create a virtual environment
     > **Note:** You can create a virtual environment using the following command:
     ```bash
     python -m venv venv
+    ```
+- Start the virtual environment
+    > **Note:** You can start the virtual environment using the following command:
+    ```bash
+    source venv/bin/activate
     ```
 - Install the requirements
     > **Note:** You can install the requirements using the following command:
@@ -56,7 +71,7 @@ and also have configurations for the following:
     python manage.py runserver
     ```
     > **Information:** You can access the server at `http://localhost:8000`
-    
+
 
 
 
